@@ -1,3 +1,12 @@
+I was sick of rumbling into different tutorials trying to install the damn thing so, i decided to create this wireframe not only to bootstrap 
+my next tailwind - vue3 projects but also to help bootstrap your projects if you feel so incline.
+
+**This Project includes Vue 3, Router, Vuex, tailwind, headless ui, heroicons**
+
+Enjoy!
+
+
+
 # vue3-tailwind
 
 ## Project setup
