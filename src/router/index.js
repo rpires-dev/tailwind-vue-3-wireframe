@@ -7,18 +7,7 @@ const routes = [{
         name: "Home",
         component: Home,
     },
-    {
-        path: '/blog',
-        name: 'blog',
-        component: () =>
-            import ('../views/Blog/Index.vue')
-    },
-    {
-        path: '/blog/new',
-        name: 'create-blog',
-        component: () =>
-            import ('../views/Blog/Create.vue')
-    }
+
 ];
 
 const router = createRouter({
